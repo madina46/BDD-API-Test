@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cff4dea1-8895-41a2-a96b-1dd6fe9c4166" name="Changes" comment="BDD-API Test code" />
+    <list default="true" id="cff4dea1-8895-41a2-a96b-1dd6fe9c4166" name="Changes" comment="BDD-API Test code">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/HttpValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/HttpValidation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +63,18 @@
       <option name="presentableId" value="Default" />
       <updated>1667149251374</updated>
     </task>
+    <task id="LOCAL-00001" summary="BDD-API Test code">
+      <created>1667322105105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667322105105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BDD-API Test code" />
+    <option name="LAST_COMMIT_MESSAGE" value="BDD-API Test code" />
   </component>
 </project>
